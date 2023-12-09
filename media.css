@@ -1,0 +1,29 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+@media (max-width: 1200px) {
+  .hero-nav img {
+    position: absolute;
+    top: 22px;
+    left: 595px;
+  }
+  .img {
+    flex-direction: column;
+  }
+  .companion-nav {
+    left: 41px;
+  }
+}
+@media (max-width: 1440px) {
+}
+@media (max-width: 1440px) {
+}
+@media (max-width: 1440px) {
+}
+@media (max-width: 1440px) {
+}
+@media (max-width: 1440px) {
+}

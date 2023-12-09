@@ -1,0 +1,475 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.contaner {
+  width: 95%;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: "Raleway" sans-serif;
+  background: #eaeef1;
+}
+button {
+  border: none;
+  cursor: pointer;
+}
+#header {
+  padding: 25px;
+}
+.header-img2 {
+  bottom: 420px;
+  left: 1137px;
+  position: absolute;
+}
+.header-imgt {
+  position: absolute;
+  bottom: 540px;
+  right: 1290px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header-text a {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 40px;
+}
+.header-titl h5 {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 400;
+}
+.header-btn {
+  width: 70px;
+  height: 24px;
+  border-radius: 30px;
+  border: 1px solid #253659;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+.header-btn h5 {
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  width: 34px;
+  height: 20px;
+  border-radius: 30px;
+  border: 1px solid #253659;
+  background: #253659;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header-btn h4 {
+  color: #253659;
+  font-size: 12px;
+  font-weight: 400;
+}
+.header-text span {
+  color: #253659;
+  font-size: 12px;
+  font-weight: 400;
+}
+.header-img {
+  z-index: 99;
+}
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 99;
+}
+.hero-text h1 {
+  color: #253659;
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 3.6px;
+}
+.hero-text p {
+  color: #253659;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1.8px;
+  padding: 90px 0 0 0;
+}
+.herobtn1 {
+  width: 119px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #253659;
+  background: #253659;
+}
+.herobtn1 h4 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin: 10px;
+}
+.hero-text h6 {
+  color: #253659;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1.8px;
+}
+.hero-title {
+  padding-left: 50px;
+}
+.hero-b {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+.herobtn h4 {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin: 10px;
+}
+.her0 h4 {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin: 10px;
+}
+.her0 {
+  width: 104px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #253659;
+  padding: 0 10px;
+}
+.herobtn {
+  width: 110px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #253659;
+}
+.hero-b2 {
+  display: flex;
+  align-items: center;
+}
+.hero-btn {
+  width: 110px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #253659;
+}
+.hero-b2 {
+  display: flex;
+  align-items: center;
+  padding: 20px 0;
+}
+.hero-btn h4 {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin: 10px;
+}
+.hero-nav h4 {
+  color: #253659;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  text-align: center;
+  margin: 10px;
+}
+.hero-nav {
+  width: 174px;
+  height: 40px;
+  flex-shrink: 0;
+  border-radius: 30px;
+  border: 1px solid #253659;
+}
+.hero-img {
+  position: relative;
+}
+.hero-end h1 {
+  position: absolute;
+  top: 670px;
+  left: 660px;
+  color: #fff;
+  font-size: 36px;
+  font-weight: 600;
+  letter-spacing: 3.6px;
+  z-index: 99;
+}
+.hero-chat img {
+  position: absolute;
+  top: 680px;
+  left: 1430px;
+  z-index: 99;
+}
+.hero-blu img {
+  position: absolute;
+  top: 89px;
+  left: 619px;
+}
+.hero-e {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 710px;
+  left: 660px;
+  z-index: 99;
+}
+.hero-e h2 {
+  color: #fff;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 140%; /* 50.4px */
+  letter-spacing: 3.6px;
+  padding: 0 10px;
+}
+.hero-e h2 span {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+}
+.hero-e p {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 1.8px;
+}
+.luxx {
+  position: relative;
+  width: 1518px;
+}
+.ll {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  top: 890px;
+  left: 200px;
+  gap: 90px;
+}
+.lki {
+  width: 440px;
+  height: 367px;
+  background: rgba(37, 54, 89, 0.8);
+  backdrop-filter: blur(2px);
+  padding-left: 40px;
+}
+
+#uson {
+  background: none;
+  border: none;
+  padding: 20px 0 0 20px;
+}
+
+#uson2 {
+  background: transparent;
+  border: none;
+  padding: 20px 0 0 20px;
+}
+
+.liu h2 {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 140%; /* 33.6px */
+  letter-spacing: 2.4px;
+  padding: 40px 0 30px 0;
+}
+.lk {
+  width: 300px;
+  height: 60px;
+  border: 1px solid #fff;
+}
+.lk input {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1.4px;
+}
+.lkk input {
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 1.4px;
+}
+.lkk {
+  width: 300px;
+  height: 60px;
+  border: 1px solid #fff;
+  margin: 20px 0;
+}
+.lo button {
+  width: 217px;
+  height: 60px;
+  background: #fff;
+  color: #253659;
+  font-size: 18px;
+  font-weight: 600;
+  letter-spacing: 1.8px;
+  align-items: center;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #253659;
+  width: 1514px;
+  height: 202px;
+  flex-shrink: 0;
+}
+.footer-text svg {
+  width: 203px;
+  height: 30px;
+  fill: #fff;
+}
+.footer-text p {
+  width: 214px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 10px;
+}
+.footer-meniy {
+  flex-direction: column;
+}
+.footer-meniy h2 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer-meniy h3 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 10px;
+}
+.footer-contac h2 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer-contac h5 {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 10px;
+}
+.footer-nav h2 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer-nav svg {
+  width: 210px;
+  height: 74px;
+  margin: 10px;
+}
+.footer-t h2 {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer-t p {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  width: 255px;
+}
+.footer-end {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0 0 0;
+
+  flex-shrink: 0;
+  stroke-width: 0.5px;
+  stroke: #e9e3e3;
+  background: #253659;
+  width: 1514px;
+  height: 160px;
+}
+.footer-r h3 {
+  width: 135px;
+  height: 29px;
+  color: #fff;
+  font-size: 10px;
+  height: 65px;
+
+  padding: 0 1020px 0 40px;
+}
+.footer-u p {
+  color: #009ee3;
+  font-size: 13px;
+  font-weight: 400;
+  width: 197px;
+  height: 28px;
+}
+.footer-u span {
+  color: #f9f8f8;
+  font-size: 10px;
+  font-weight: 400;
+}
+/* @import url("https://fonts.googleapis.com/css?family=Quicksand"); */
+.jj {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 36px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.hkk {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 36px;
+  position: absolute;
+  cursor: pointer;
+  border-radius: 36px;
+  text-align: center;
+  height: 40px;
+  width: 88px;
+  color: white;
+  z-index: 99;
+  transition: 1.2s;
+  background: url(./img/Baytik_poselok_View010004.png);
+}
+
+.jj {
+  height: 50px;
+  width: 88px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://images.unsplash.com/photo-1529044728228-9917df974897?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+  color: white;
+  box-shadow: 3px 3px 30px #aaa;
+}
+
+.hkk:hover {
+  transform: translateX(-80%);
+  transition: 1.2s;
+}
