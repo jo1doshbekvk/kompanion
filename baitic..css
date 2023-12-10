@@ -174,7 +174,10 @@ button {
   align-items: center;
   justify-content: center;
 }
-
+.imgg {
+  width: 338px;
+  height: 57px;
+}
 .hero-text svg {
   width: 699.999px;
   height: 104px;
@@ -225,7 +228,21 @@ button {
   font-size: 18px;
   font-weight: 600;
 }
-
+.img1 {
+  width: 360px;
+height: 310px;
+flex-shrink: 0;
+}
+.img2 {
+  width: 360px;
+height: 310px;
+flex-shrink: 0;
+}
+.img3 {
+  width: 360px;
+height: 310px;
+flex-shrink: 0;
+}
 .hiro-card2 {
   width: 229px;
   height: 60px;
@@ -464,13 +481,23 @@ button {
   padding-top: 10px;
   padding-left: 50px;
 }
-
+.location-nav1 {
+  width: 842px;
+  height: 500px;
+}
 .hiro-pp p {
   color: #000;
   font-size: 14px;
   font-weight: 400;
 }
-
+.nn {
+  width: 1440px;
+  height: 200px;
+}
+.yy {
+  width: 1440px;
+  height: 200px;
+}
 .hiro-pp p span {
   color: #009ee3;
   font-size: 14px;
@@ -488,7 +515,7 @@ button {
 .hiro-o {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .hiro-o p {
@@ -513,14 +540,20 @@ button {
   top: 70px;
   left: 700px;
 }
+
 .carta-nav {
   position: absolute;
   top: 1px;
 }
-
+.lux-text {
+  width: 338px;
+  height: 57px;
+  flex-shrink: 0;
+}
 .luxx {
   position: relative;
-  width: 1518px;
+  width: 1440px;
+  height: 500px;
 }
 .ll {
   position: absolute;
@@ -693,4 +726,46 @@ button {
   color: #f9f8f8;
   font-size: 10px;
   font-weight: 400;
+}
+.jj {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 36px;
+  position: absolute;
+  cursor: pointer;
+}
+
+.hkk {
+  background-color: #ddd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 36px;
+  position: absolute;
+  cursor: pointer;
+  border-radius: 36px;
+  text-align: center;
+  height: 40px;
+  width: 88px;
+  color: white;
+  z-index: 99;
+  transition: 1.2s;
+  background: url(./img/Baytik_poselok_View010004.png);
+}
+
+.jj {
+  height: 50px;
+  width: 88px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(https://images.unsplash.com/photo-1529044728228-9917df974897?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+  color: white;
+  box-shadow: 3px 3px 30px #aaa;
+}
+
+.hkk:hover {
+  transform: translateX(-80%);
+  transition: 1.2s;
 }

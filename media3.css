@@ -1,0 +1,1033 @@
+@media (max-width: 1440px) {
+  .container {
+    width: 95%;
+    margin: 0 auto;
+  }
+  .footer {
+    text-align: center;
+  }
+  .home {
+    text-align: center;
+  }
+  .locatsia-text {
+    text-align: center;
+  }
+  .complex {
+    text-align: center;
+  }
+  .hiro-lext {
+    text-align: center;
+  }
+  .luxx {
+    position: relative;
+    width: 1440px;
+    height: 500px;
+  }
+  .carta-nav {
+    width: 1440px;
+    height: 200px;
+  }
+  .nn {
+    width: 1368px;
+    height: 200px;
+  }
+  .yy {
+    width: 1366px;
+    height: 200px;
+  }
+
+  .footer {
+    width: 1397px;
+    height: 202px;
+  }
+  .footer-end {
+    width: 1398px;
+    height: 160px;
+  }
+  .hero-t {
+    position: absolute;
+    top: 393px;
+    left: 232px;
+    width: 301px;
+    height: 57px;
+  }
+  .heroo img {
+    width: 1405px;
+    height: 700px;
+  }
+}
+@media (max-width: 1200px) {
+  .carta-text {
+    text-align: center;
+    top: 44px;
+    left: 534px;
+  }
+  .header-titl h5 {
+    display: none;
+  }
+  .header-svg img {
+    display: none;
+  }
+  .heroo img {
+    width: 1155px;
+    height: 700px;
+  }
+  .nn {
+    width: 1166px;
+    height: 200px;
+  }
+  .yy {
+    width: 1163px;
+    height: 200px;
+  }
+  .luxx {
+    width: 1176px;
+    height: 695px;
+  }
+  .footer {
+    width: 1166px;
+    height: 202px;
+  }
+  .footer-end {
+    width: 1165px;
+    height: 160px;
+  }
+  .footer-r h3 {
+    width: 135px;
+    height: 29px;
+    color: #fff;
+    font-size: 10px;
+    height: 65px;
+    padding: 0 701px 0 40px;
+  }
+  .ll {
+    flex-direction: column;
+    top: 3350px;
+    left: 200px;
+    gap: 10px;
+  }
+  .complex p {
+    font-size: 18px;
+    width: 928px;
+    margin-left: -15px;
+  }
+  .locatsia {
+    flex-direction: column;
+    padding: 50px;
+  }
+  .location-s svg {
+    right: 853px;
+    top: 1966px;
+  }
+  .img {
+    flex-direction: column;
+  }
+  .ll {
+    top: 4293px;
+    left: 200px;
+    gap: 90px;
+  }
+
+  .carta-nav {
+    width: 351px;
+    height: 168px;
+  }
+  .carta {
+    width: 1065px;
+  }
+  .hero-t {
+    position: absolute;
+    top: 393px;
+    left: 232px;
+    width: 301px;
+    height: 57px;
+  }
+
+  .jj {
+    height: 75px;
+    width: 109px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 54px;
+    width: 85px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 1024px) {
+  .heroo img {
+    width: 995px;
+    height: 700px;
+  }
+  .hiro {
+    flex-direction: column;
+  }
+  .ll {
+    top: 5000px;
+    left: 200px;
+    gap: 90px;
+  }
+  .location-s svg {
+    right: 782px;
+    top: 2665px;
+  }
+  .nn {
+    width: 994px;
+    height: 200px;
+  }
+  .yy {
+    width: 998px;
+    height: 200px;
+  }
+  .luxx {
+    width: 998px;
+    height: 695px;
+  }
+  .footer {
+    width: 999px;
+    height: 202px;
+  }
+  .footer-end {
+    width: 999px;
+    height: 160px;
+  }
+  .footer-r h3 {
+    width: 135px;
+    height: 29px;
+    font-size: 10px;
+    height: 65px;
+    padding: 0 534px 0 40px;
+  }
+  .carta {
+    width: 957px;
+  }
+  .hero-t {
+    position: absolute;
+    top: 393px;
+    left: 232px;
+    width: 301px;
+    height: 57px;
+  }
+  .carta-text {
+    text-align: center;
+    top: 44px;
+    left: 424px;
+  }
+
+  .jj {
+    height: 35px;
+    width: 50px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 54px;
+    width: 71px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 992px) {
+  .carta-text {
+    text-align: center;
+    top: 43px;
+    left: 425px;
+  }
+  .hero-t {
+    position: absolute;
+    top: 393px;
+    left: 232px;
+    width: 301px;
+    height: 57px;
+  }
+  .heroo img {
+    width: 966px;
+    height: 700px;
+  }
+  .luxx {
+    width: 964px;
+    height: 695px;
+  }
+  .footer {
+    width: 964px;
+    height: 202px;
+  }
+  .nn {
+    width: 964px;
+    height: 200px;
+  }
+  .yy {
+    width: 963px;
+    height: 200px;
+  }
+  .footer-end {
+    width: 964px;
+    height: 160px;
+  }
+
+  .jj {
+    height: 35px;
+    width: 50px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 28px;
+    width: 42px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 768px) {
+  .header a {
+    display: none;
+  }
+  .carta {
+    width: 228px;
+  }
+  .heroo img {
+    width: 745px;
+    height: 700px;
+  }
+  .hero-t {
+    top: 384px;
+    left: 93px;
+    width: 301px;
+    height: 57px;
+  }
+  .complex p {
+    font-size: 18px;
+    width: 740px;
+    margin-left: -15px;
+  }
+  .location-nav1 {
+    width: 761px;
+    height: 500px;
+  }
+  .home p {
+    font-size: 18px;
+    margin: 20px;
+    width: 723px;
+  }
+  .nn {
+    width: 745px;
+    height: 200px;
+  }
+  .yy {
+    width: 743px;
+    height: 200px;
+  }
+  .luxx {
+    width: 746px;
+    height: 695px;
+  }
+  .ll {
+    top: 5000px;
+    left: 86px;
+    gap: 90px;
+  }
+  .footer {
+    flex-direction: column;
+  }
+  .footer {
+    width: 746px;
+    height: 596px;
+  }
+  .carta-text {
+    text-align: center;
+    top: 43px;
+    left: 308px;
+  }
+  .footer-end {
+    width: 748px;
+    height: 160px;
+  }
+  .footer-r h3 {
+    padding: 0 335px 0 40px;
+  }
+  .icon {
+    gap: 11px;
+  }
+  .jj {
+    height: 72px;
+    width: 109px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 49px;
+    width: 69px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 576px) {
+  .heroo img {
+    width: 560px;
+    height: 700px;
+  }
+  .hero-t {
+    top: 379px;
+    left: 21px;
+    width: 338px;
+    height: 57px;
+  }
+  .complex p {
+    font-size: 16px;
+    width: 545px;
+    margin-left: -15px;
+  }
+  .location-nav1 {
+    width: 572px;
+    height: 500px;
+  }
+  .home p {
+    font-size: 18px;
+    margin: 20px;
+    width: 579px;
+  }
+  .nn {
+    width: 558px;
+    height: 200px;
+  }
+  .yy {
+    width: 558px;
+    height: 200px;
+  }
+  .carta {
+    width: -129px;
+  }
+  .carta {
+    width: -129px;
+  }
+  .luxx {
+    width: 562px;
+    height: 695px;
+  }
+  .lki {
+    width: 322px;
+    height: 367px;
+    padding-left: 12px;
+  }
+  .ll {
+    top: 5056px;
+    left: 64px;
+    gap: 90px;
+  }
+  .footer {
+    width: 559px;
+    height: 596px;
+  }
+  .footer-end {
+    width: 558px;
+    height: 59px;
+  }
+  .footer-r h3 {
+    padding: 0 174px 0 40px;
+  }
+
+  .footer-r h3 {
+    width: 139px;
+    height: 29px;
+    font-size: 10px;
+    height: 17px;
+  }
+  .hero-t {
+    top: 379px;
+    left: 75px;
+    width: 338px;
+    height: 57px;
+  }
+  .hero-t svg {
+    top: 65px;
+    left: 142px;
+  }
+
+  .jj {
+    height: 35px;
+    width: 50px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 55px;
+    width: 70px;
+  }
+
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 451px) {
+  .heroo img {
+    width: 440px;
+    height: 558px;
+  }
+  .hiro-main {
+    margin-top: 61px;
+    width: 449px;
+    height: 603px;
+  }
+  .hiro-top {
+    width: 344px;
+    height: 94px;
+  }
+  .hiro-date {
+    width: 362px;
+    height: 53px;
+    margin-left: 40px;
+  }
+  .hiro-card {
+    width: 196px;
+    height: 60px;
+  }
+  .hiro-btn button {
+    width: 353px;
+    height: 60px;
+    margin-top: 24px;
+    margin-left: 41px;
+  }
+  .hiro-main {
+    margin-top: 27px;
+    width: 447px;
+    height: 596px;
+  }
+  .hiro-content {
+    width: 421px;
+    height: 300px;
+    margin-top: 37px;
+    margin-left: 25px;
+  }
+  .hiro-contents {
+    width: 402px;
+
+    height: 272px;
+    margin-left: 40px;
+  }
+  .hiro-menui {
+    padding-top: 23px;
+    gap: 238px;
+  }
+  .hiro-menuu {
+    padding-top: 27px;
+    gap: 211px;
+    margin-left: 25px;
+  }
+  .hiro-menup {
+    padding-top: 27px;
+    gap: 217px;
+    margin-left: 35px;
+  }
+  .hiro-pp {
+    padding-top: 13px;
+    padding-left: 95px;
+  }
+
+  .complex p {
+    font-size: 12px;
+    width: 411px;
+    margin-left: -15px;
+  }
+  .location-nav1 {
+    width: 440px;
+    height: 420px;
+  }
+  .home p {
+    font-size: 14px;
+    margin: 20px;
+    width: 406px;
+  }
+  .icon {
+    flex-wrap: wrap-reverse;
+    padding: 50px;
+    gap: 90px;
+  }
+  .nn {
+    width: 439px;
+    height: 200px;
+  }
+  .yy {
+    width: 436px;
+    height: 200px;
+  }
+  .luxx {
+    width: 438px;
+    height: 551px;
+  }
+  .ll {
+    top: 4680px;
+
+    left: 64px;
+    gap: 23px;
+  }
+  .footer {
+    width: 438px;
+    height: 596px;
+  }
+  .footer-end {
+    width: 437px;
+    height: 59px;
+  }
+  .footer-r h3 {
+    padding: 0px 61px 0 40px;
+  }
+  .footer-text svg {
+    width: 204px;
+    height: 68px;
+  }
+  .complex h1 {
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .locatsia-text h1 {
+    font-size: 26px;
+    font-weight: 600;
+  }
+  .home h1 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .carta-text {
+    text-align: center;
+    top: 49px;
+    left: 164px;
+  }
+
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 53px;
+    width: 65px;
+  }
+}
+.jj {
+  height: 54px;
+  width: 79px;
+}
+
+.header-btn {
+  width: 36px;
+  height: 0px;
+  border-radius: 30px;
+}
+@media (max-width: 400px) {
+  .heroo img {
+    width: 388px;
+    height: 378px;
+  }
+  .imgg {
+    width: 251px;
+    height: 54px;
+  }
+  .hero-t {
+    top: 219px;
+    left: 68px;
+    width: 320px;
+    height: 57px;
+  }
+  .hero-t svg {
+    top: 56px;
+    left: 108px;
+  }
+  .hiro-main {
+    margin-top: 8px;
+    width: 386px;
+    height: 590px;
+  }
+  .hiro-top {
+    width: 304px;
+    height: 94px;
+  }
+  .hiro-date {
+    width: 325px;
+    height: 53px;
+    margin-left: 40px;
+  }
+  .hiro-btn button {
+    width: 327px;
+    height: 60px;
+    margin-top: 24px;
+    margin-left: 41px;
+  }
+  .hiro-content {
+    width: 368px;
+    height: 337px;
+    margin-top: 37px;
+    margin-left: 25px;
+  }
+  .hiro-right h1 {
+    font-size: 21px;
+    font-weight: 600;
+  }
+  .hiro-rightt h1 {
+    font-size: 21px;
+    font-weight: 600;
+  }
+  .hiro-rightp h1 {
+    font-size: 21px;
+    font-weight: 600;
+  }
+  .hiro-pp p {
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .hiro-contents {
+    width: 355px;
+    height: 272px;
+    margin-left: 40px;
+  }
+  .complex p {
+    font-size: 12px;
+    width: 411px;
+    margin-left: -15px;
+    width: 370px;
+  }
+  .locatsia-text p {
+    width: 385px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .location-nav1 {
+    width: 393px;
+    height: 420px;
+  }
+  .nn {
+    width: 388px;
+    height: 200px;
+  }
+  .yy {
+    width: 388px;
+    height: 200px;
+  }
+  .carta-text {
+    text-align: center;
+    top: 46px;
+    left: 138px;
+  }
+  .luxx {
+    width: 390px;
+    height: 551px;
+  }
+  .ll {
+    top: 4507px;
+    left: 30px;
+    gap: 23px;
+  }
+  .footer {
+    width: 392px;
+    height: 596px;
+  }
+  .footer-end {
+    width: 392px;
+    height: 59px;
+  }
+  .footer-r h3 {
+    padding: 0px 1px 0 5px;
+  }
+
+  .jj {
+    height: 53px;
+    width: 72px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 49px;
+    width: 55px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}
+@media (max-width: 376px) {
+  .heroo img {
+    width: 365px;
+    height: 378px;
+  }
+  .hiro-main {
+    margin-top: 8px;
+    width: 366px;
+    height: 590px;
+  }
+  .hiro-top {
+    width: 301px;
+    height: 94px;
+  }
+  .hiro-content {
+    width: 332px;
+    height: 378px;
+    margin-top: 37px;
+    margin-left: 25px;
+  }
+  .hiro-contents {
+    width: 319px;
+    height: 272px;
+    margin-left: 40px;
+  }
+  .hiro-menui {
+    padding-top: 23px;
+    gap: 138px;
+  }
+  .hiro-menuu {
+    padding-top: 27px;
+    gap: 100px;
+    margin-left: 25px;
+  }
+  .hiro-menup {
+    padding-top: 27px;
+    gap: 114px;
+    margin-left: 35px;
+  }
+  .hiro-pp {
+    padding-top: 52px;
+    padding-left: 95px;
+  }
+  .complex p {
+    font-size: 12px;
+    margin-left: -15px;
+    width: 343px;
+  }
+  .locatsia-text p {
+    width: 317px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .location-nav1 {
+    width: 375px;
+    height: 420px;
+  }
+  .nn {
+    width: 363px;
+    height: 200px;
+  }
+  .yy {
+    width: 346px;
+    height: 200px;
+  }
+  .luxx {
+    width: 362px;
+    height: 551px;
+  }
+  .icon {
+    flex-wrap: wrap-reverse;
+    padding: 50px;
+    gap: 50px;
+  }
+  .footer {
+    width: 361px;
+    height: 596px;
+  }
+  .footer-end {
+    width: 362px;
+    height: 59px;
+  }
+
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 46px;
+    width: 66px;
+  }
+  .jj {
+    height: 69px;
+    width: 97px;
+  }
+}
+.header-btn {
+  width: 36px;
+  height: 0px;
+  border-radius: 30px;
+}
+
+@media (max-width: 320px) {
+  .heroo img {
+    width: 313px;
+    height: 309px;
+  }
+  .imgg {
+    width: 185px;
+    height: 36px;
+  }
+  .hero-t svg {
+    top: 35px;
+    left: 126px;
+    width: 21px;
+    height: 50px;
+  }
+
+  .hiro-main {
+    margin-top: 8px;
+    width: 319px;
+    height: 590px;
+  }
+  .hiro-cards {
+    padding: 33px 0 0 0;
+  }
+  .hiro-top {
+    width: 243px;
+    height: 86px;
+  }
+  .hiro-left {
+    margin-left: 4px;
+  }
+  .hiro-date {
+    width: 266px;
+    height: 53px;
+    margin-left: 40px;
+  }
+  .hiro-btn button {
+    width: 166px;
+    height: 60px;
+    margin-top: 24px;
+    margin-left: 41px;
+  }
+  .hiro-content {
+    width: 292px;
+    height: 360px;
+    margin-top: 37px;
+    margin-left: 25px;
+  }
+  .hiro-contents {
+    width: 274px;
+    height: 286px;
+    margin-left: 32px;
+  }
+  .complex p {
+    font-size: 12px;
+    margin-left: -15px;
+    width: 293px;
+  }
+  .location-nav1 {
+    width: 316px;
+    height: 315px;
+  }
+  .home p {
+    font-size: 14px;
+    margin: 20px;
+    width: 318px;
+  }
+  .img1 {
+    width: 316px;
+    height: 283px;
+    flex-shrink: 0;
+  }
+  .img2 {
+    width: 317px;
+    height: 285px;
+    flex-shrink: 0;
+  }
+  .icon {
+    flex-wrap: wrap-reverse;
+    padding: 44px;
+    gap: 9px;
+  }
+  .nn {
+    width: 309px;
+    height: 200px;
+  }
+  .carta-nav {
+    width: 249px;
+    height: 168px;
+  }
+  .yy {
+    width: 304px;
+    height: 200px;
+  }
+  .luxx {
+    width: 307px;
+    height: 509px;
+  }
+  .ll {
+    top: 4145px;
+    left: 3px;
+    gap: 11px;
+  }
+  .lux-text {
+    width: 220px;
+    height: 50px;
+    flex-shrink: 0;
+  }
+  .lki {
+    width: 288px;
+    height: 384px;
+    padding-left: 16px;
+  }
+  .lk {
+    width: 276px;
+    height: 52px;
+    border: 1px solid #fff;
+  }
+  .lkk {
+    width: 276px;
+    height: 53px;
+    border: 1px solid #fff;
+    margin: 20px 0;
+  }
+  .lo button {
+    width: 148px;
+    height: 44px;
+    background: #fff;
+    color: #253659;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.8px;
+    align-items: center;
+  }
+  .footer {
+    width: 307px;
+    height: 596px;
+  }
+  .footer-end {
+    width: 307px;
+    height: 59px;
+  }
+  .footer-u p {
+    color: #009ee3;
+    font-size: 9px;
+    font-weight: 400;
+    width: 140px;
+    height: 28px;
+  }
+  .hero-t {
+    top: 210px;
+    left: 13px;
+    width: 287px;
+    height: 57px;
+  }
+  .hero-t {
+    text-align: center;
+  }
+  .jj {
+    height: 35px;
+    width: 50px;
+  }
+  .hkk {
+    border-radius: 36px;
+    border-radius: 36px;
+    height: 28px;
+    width: 42px;
+  }
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
+}

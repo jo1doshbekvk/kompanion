@@ -672,4 +672,12 @@
   .header-img {
     z-index: 99;
   }
+  .hkk {
+    height: 36px;
+    width: 56px;
+  }
+  .jj {
+    height: 37px;
+    width: 64px;
+  }
 }
