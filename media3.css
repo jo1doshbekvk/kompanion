@@ -336,8 +336,8 @@
     display: none;
   }
   .carta {
-    width: 228px;
-  }
+    width: 298px;
+}   
   .heroo img {
     width: 745px;
     height: 700px;
@@ -759,10 +759,9 @@
     height: 200px;
   }
   .carta-text {
-    text-align: center;
     top: 46px;
-    left: 138px;
-  }
+    left: 89px;
+}
   .luxx {
     width: 390px;
     height: 551px;
@@ -1000,7 +999,7 @@
     height: 509px;
   }
   .ll {
-    top: 4354px;
+    top: 4352px;
     left: 3px;
     gap: 14px;
   }
@@ -1037,11 +1036,11 @@
   .footer {
     width: 307px;
     height: 647px;
-}
-.footer-end {
-  width: 307px;
-  height: 64px;
-}
+  }
+  .footer-end {
+    width: 307px;
+    height: 64px;
+  }
   .footer-u p {
     color: #009ee3;
     font-size: 9px;
