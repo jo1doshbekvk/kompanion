@@ -73,11 +73,17 @@
   .home {
     overflow: hidden;
   }
-  img {
+  .img1 {
+    overflow: hidden;
+  }
+  .img2 {
+    overflow: hidden;
+  }
+  .img3 {
     overflow: hidden;
   }
   .icon {
-overflow: hidden;
+    overflow: hidden;
   }
   .carta {
     overflow: hidden;
@@ -651,16 +657,17 @@ overflow: hidden;
     height: 53px;
     width: 65px;
   }
-}
-.jj {
-  height: 54px;
-  width: 79px;
-}
 
-.header-btn {
-  width: 36px;
-  height: 0px;
-  border-radius: 30px;
+  .jj {
+    height: 54px;
+    width: 79px;
+  }
+
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
 }
 @media (max-width: 400px) {
   .heroo img {
@@ -886,11 +893,12 @@ overflow: hidden;
     height: 69px;
     width: 97px;
   }
-}
-.header-btn {
-  width: 36px;
-  height: 0px;
-  border-radius: 30px;
+
+  .header-btn {
+    width: 36px;
+    height: 0px;
+    border-radius: 30px;
+  }
 }
 
 @media (max-width: 320px) {
@@ -949,7 +957,7 @@ overflow: hidden;
   .complex p {
     font-size: 12px;
     margin-left: -15px;
-    width: 293px;
+    width: 271px;
   }
   .location-nav1 {
     width: 316px;
@@ -984,7 +992,7 @@ overflow: hidden;
     height: 168px;
   }
   .yy {
-    width: 304px;
+    width: 225px;
     height: 200px;
   }
   .luxx {
@@ -992,14 +1000,13 @@ overflow: hidden;
     height: 509px;
   }
   .ll {
-    top: 4145px;
+    top: 4354px;
     left: 3px;
-    gap: 11px;
+    gap: 14px;
   }
   .lux-text {
-    width: 220px;
-    height: 50px;
-    flex-shrink: 0;
+    width: 218px;
+    height: 57px;
   }
   .lki {
     width: 288px;
@@ -1029,12 +1036,12 @@ overflow: hidden;
   }
   .footer {
     width: 307px;
-    height: 596px;
-  }
-  .footer-end {
-    width: 307px;
-    height: 59px;
-  }
+    height: 647px;
+}
+.footer-end {
+  width: 307px;
+  height: 64px;
+}
   .footer-u p {
     color: #009ee3;
     font-size: 9px;
@@ -1065,5 +1072,14 @@ overflow: hidden;
     width: 36px;
     height: 0px;
     border-radius: 30px;
+  }
+  .locatsia-text p {
+    width: 292px;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .liu h2 {
+    font-size: 24px;
+    padding: -8px 0 6px 0;
   }
 }
