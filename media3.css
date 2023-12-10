@@ -55,6 +55,42 @@
     width: 1405px;
     height: 700px;
   }
+  .header {
+    overflow: hidden;
+  }
+  .heroo {
+    overflow: hidden;
+  }
+  .main {
+    overflow: hidden;
+  }
+  .complex {
+    overflow: hidden;
+  }
+  .locatsia {
+    overflow: hidden;
+  }
+  .home {
+    overflow: hidden;
+  }
+  img {
+    overflow: hidden;
+  }
+  .icon {
+overflow: hidden;
+  }
+  .carta {
+    overflow: hidden;
+  }
+  .lux {
+    overflow: hidden;
+  }
+  .footer {
+    overflow: hidden;
+  }
+  .footer-end {
+    overflow: hidden;
+  }
 }
 @media (max-width: 1200px) {
   .carta-text {
