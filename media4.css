@@ -3,6 +3,21 @@
     width: 95%;
     margin: 0 auto;
   }
+  .header {
+    overflow: hidden;
+  }
+  .lux {
+    overflow: hidden;
+  }
+  .footer {
+    overflow: hidden;
+  }
+  .footer-end {
+    overflow: hidden;
+  }
+  .hero {
+    overflow: hidden;
+  }
 }
 @media (max-width: 1200px) {
   .hero-text {
