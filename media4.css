@@ -626,6 +626,7 @@
     height: 40px;
     flex-shrink: 0;
   }
+ 
   .header-img2 {
     bottom: -16px;
     left: -63px;
@@ -671,7 +672,7 @@
     padding-left: -9px;
   }
   .footer {
-    width: 311px;
+    width: 306px;
     height: 616px;
   }
   .footer-end {
@@ -688,11 +689,16 @@
     z-index: 99;
   }
   .hkk {
-    height: 36px;
-    width: 56px;
+    height: 22px;
+    width: 46px;
   }
   .jj {
     height: 37px;
     width: 64px;
+  }
+  .hero-end h1 {
+    top: 769px;
+    font-size: 16px;
+    width: 277px;
   }
 }

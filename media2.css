@@ -590,6 +590,11 @@
     font-size: 10px;
     width: 116px;
   }
+  .he-img {
+    width: 150 px;
+    height: 15.629px;
+    left: 10px;
+  }
 }
 @media (max-width: 1440px) {
 }

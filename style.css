@@ -78,11 +78,8 @@ button {
 }
 
 #hero {
-  background: url(./img/Baytik_poselok_View02.png);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: url(./img/Baytik_poselok_View02.png) no-repeat center/cover;
   height: 100vh;
-  position: relative;
 }
 .hero-nav img {
   position: absolute;
@@ -155,7 +152,7 @@ button {
 .companion-nav {
   position: absolute;
   top: 340px;
-  left: 300px;
+  left: 100px;
 }
 .companio-text {
   position: absolute;
