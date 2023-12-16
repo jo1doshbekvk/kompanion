@@ -303,7 +303,7 @@
   .lux-text {
     width: 497px;
     height: 35.036px;
-}
+  }
 }
 @media (max-width: 992px) {
   .carta-text {
@@ -1072,7 +1072,7 @@
   }
   .footer {
     width: 307px;
-    height: 647px;
+    height: 679px;
   }
   .footer-end {
     width: 307px;

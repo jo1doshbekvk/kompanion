@@ -576,10 +576,11 @@
     height: 355px;
     padding-left: 39px;
   }
+
   .footer {
     flex-direction: column;
     width: 303px;
-    height: 560px;
+    height: 648px;
   }
   .footer-end {
     width: 305px;

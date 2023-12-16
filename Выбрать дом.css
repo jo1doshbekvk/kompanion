@@ -383,3 +383,9 @@ button {
   transform: translateX(-80%);
   transition: 1.2s;
 }
+.footera button {
+  color: #e9e3e3;
+  background: #009ee3;
+  width: 100px;
+  height: 30px;
+}
