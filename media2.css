@@ -92,9 +92,9 @@
     right: 778px;
   }
   .hero-end {
-    top: 450px;
+    top: 381px;
     left: 653px;
-    width: 312px;
+    width: 322px;
     font-size: 12px;
   }
   .bodhi1 {
@@ -150,7 +150,7 @@
     right: 778px;
   }
   .luxx {
-    width: 547px;
+    width: 942px;
     height: 586px;
   }
   .footer {
@@ -161,11 +161,21 @@
     width: 943px;
     height: 160px;
   }
+  .hero-end {
+    top: 381px;
+    left: 653px;
+    width: 322px;
+    font-size: 12px;
+  }
 }
 @media (max-width: 768px) {
   .img {
     width: 410px;
     height: 673.999px;
+  }
+  .luxx {
+    width: 730px;
+    height: 586px;
   }
   .hero-text {
     font-size: 25px;
@@ -185,6 +195,10 @@
   .header-img {
     top: 1px;
     right: 380px;
+  }
+  .header-imgt {
+    bottom: 448px;
+    right: 339px;
   }
   .header-img1 {
     top: 1px;
@@ -208,7 +222,7 @@
   }
   .footer {
     flex-direction: column;
-    width: 546px;
+    width: 730px;
     height: 574px;
   }
   .footer-end {
@@ -281,6 +295,14 @@
   .footer-end {
     width: 546px;
     height: 160px;
+  }
+  .header-imgt {
+    bottom: 448px;
+    right: 340px;
+  }
+  .luxx {
+    width: 547px;
+    height: 586px;
   }
 }
 @media (max-width: 451px) {
@@ -376,7 +398,6 @@
     padding: 0px 51px 0 0px;
   }
 }
-
 @media (max-width: 400px) {
   .img {
     width: 220px;
@@ -431,7 +452,7 @@
     height: 28px;
   }
 }
-@media (max-width: 377px) {
+@media (max-width: 376px) {
   .img {
     width: 189px;
     height: 602.999px;
@@ -595,8 +616,4 @@
     height: 15.629px;
     left: 10px;
   }
-}
-@media (max-width: 1440px) {
-}
-@media (max-width: 1440px) {
 }
