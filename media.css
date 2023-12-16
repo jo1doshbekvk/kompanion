@@ -806,10 +806,10 @@
 
   .about-nav {
     flex-wrap: wrap;
-    width: 372px;
+    width: 363px;
     height: 287px;
     flex-shrink: 0;
-  }
+}
   .i-img {
     width: 308px;
     height: 400px;
