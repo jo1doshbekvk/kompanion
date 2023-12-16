@@ -122,7 +122,7 @@ button {
 .hero-chat {
   position: absolute;
   top: 700px;
-  left: 1400px;
+  left: 1100px;
 }
 .header-img {
   position: absolute;
@@ -166,16 +166,16 @@ button {
 
 .luxx {
   position: relative;
-  width: 1518px;
+  width: 1156px;
 }
 .ll {
   position: absolute;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  top: 1587px;
-  left: 200px;
-  gap: 90px;
+  top: 1507px;
+  left: 10px;
+  gap: 50px;
 }
 .lki {
   width: 440px;
@@ -244,7 +244,7 @@ button {
   align-items: center;
   justify-content: space-between;
   background: #253659;
-  width: 1514px;
+  width: 1154px;
   height: 202px;
   flex-shrink: 0;
 }
@@ -311,22 +311,25 @@ button {
   align-items: center;
   justify-content: center;
   padding: 10px 0 0 0;
-
   flex-shrink: 0;
   stroke-width: 0.5px;
   stroke: #e9e3e3;
   background: #253659;
-  width: 1514px;
+  width: 1154px;
   height: 160px;
+}
+.footer-end {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .footer-r h3 {
   width: 135px;
   height: 29px;
   color: #fff;
   font-size: 10px;
-  height: 65px;
 
-  padding: 0 1020px 0 40px;
+  height: 65px;
 }
 .footer-u p {
   color: #009ee3;
@@ -384,8 +387,26 @@ button {
   transition: 1.2s;
 }
 .footera button {
-  color: #e9e3e3;
-  background: #009ee3;
-  width: 100px;
+  cursor: pointer;
+  width: 122px;
   height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: -10.875em;
+  font-weight: 800;
+  letter-spacing: 0px;
+  color: #f2eeee;
+  background: #009ee3;
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 0 #009ee3;
+  transform: skew(-10deg);
+  transition: all 0.1s ease;
+  filter: drop-shadow(0 15px 20px #654dff);
+}
+.footera button:active {
+  letter-spacing: 0px;
+  transform: skew(-10deg) translate(8px);
+  box-shadow: 0 0 0 #654dff63;
 }
