@@ -20,7 +20,6 @@ button {
 }
 
 #header {
-  width: 100%;
   background: transparent;
   position: fixed;
   backdrop-filter: blur(10px);
@@ -286,7 +285,10 @@ button {
   bottom: 99px;
   left: 20px;
 }
-
+.tt {
+  width: 446px;
+  height: 400px;
+}
 .her4 {
   position: relative;
   bottom: 100px;
@@ -374,6 +376,9 @@ button {
   width: 1173px;
   height: 500px;
   flex-shrink: 0;
+}
+.luxx img {
+  width: 100vh;
 }
 .ll {
   position: absolute;

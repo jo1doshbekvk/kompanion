@@ -75,18 +75,6 @@
     height: 160px;
   }
 
-  .i-img4 {
-    width: 569px;
-    height: 404px;
-  }
-  .i-img5 {
-    width: 569px;
-    height: 400px;
-  }
-  .i-img3 {
-    width: 569px;
-    height: 400px;
-  }
   .her5 h1 {
     font-size: 16px;
     width: 216px;
@@ -134,7 +122,7 @@
     flex-wrap: wrap;
   }
   .about-nav button {
-    top: 435px;
+    top: 223px;
     right: 520px;
     font-size: 14px;
     width: 149px;
@@ -202,7 +190,7 @@
   }
   .ll {
     flex-direction: column;
-    top: 4158px;
+    top: 3911px;
     left: 165px;
   }
   .partnior-1 {
@@ -313,12 +301,19 @@
 }
 @media (max-width: 576px) {
   .hero-nav img {
-    width: 260.634px;
+    width: 216.6341px;
     height: 166.564px;
   }
   .hero-nav2 img {
     width: 318.634px;
     height: 206.564px;
+    flex-shrink: 0;
+  }
+  .hero-nav {
+    left: 208px;
+    bottom: 561px;
+    width: 107.63399999999999px;
+    height: 81.564px;
     flex-shrink: 0;
   }
   .hero-text {
@@ -342,36 +337,35 @@
     display: none;
   }
   .jj {
-    left: 450px;
-    bottom: 5px;
+    left: 346px;
+    bottom: -8px;
   }
   .hkk {
-    left: 450px;
-    bottom: 10px;
+    left: 346px;
+    bottom: -4px;
     height: 40px;
     width: 88px;
   }
   .hero-pp {
-    left: 479px;
+    left: 362px;
     top: 553px;
   }
   .about-text p {
-    width: 557px;
-    font-size: 16px;
+    width: 434px;
+    font-size: 14px;
   }
   .about-text {
     top: 37px;
     left: 4px;
   }
   .about-nav {
-    top: 184px;
-    left: 9px;
-  }
-
-  .about-nav {
     flex-wrap: wrap;
-    width: 467px;
+    width: 427px;
     height: 200px;
+  }
+  .about-nav {
+    top: 196px;
+    left: -13px;
   }
   .about-nav button {
     top: 364px;
@@ -381,22 +375,22 @@
     height: 56px;
   }
   .i-img {
-    width: 561px;
+    width: 446px;
     height: 400px;
   }
   .i-img1 {
-    left: 482px;
+    left: 359px;
     width: 40px;
     height: 40px;
   }
   .luxx {
-    width: 550px;
+    width: 432px;
     height: 525px;
   }
   .ll {
     flex-direction: column;
-    top: 3849px;
-    left: 71px;
+    top: 3767px;
+    left: -12px;
   }
   .lo button {
     width: 182px;
@@ -408,25 +402,28 @@
   }
   .partnior {
     flex-direction: column;
-    width: 518px;
-    height: 528px;
+    width: 398px;
+    height: 550px;
   }
   .partnior-1 {
-    left: 61px;
-    top: 260px;
+    left: -49px;
+    top: 300px;
+    width: 455px;
+    height: 550px;
   }
   .partnior-2 {
-    left: 56px;
-    top: 260px;
+    left: -10px;
+    top: 297px;
   }
+
   .footer {
     flex-wrap: wrap;
-    width: 549px;
-    height: 305px;
+    width: 433px;
+    height: 434px;
   }
   .footer-end {
     flex-wrap: wrap;
-    width: 548px;
+    width: 431px;
     height: 160px;
   }
   .her5 {
@@ -535,14 +532,16 @@
     width: 409px;
     height: 76.036px;
   }
-  .partnior {
-    flex-direction: column;
-    width: 406px;
-    height: 583px;
+
+  .partnior-1 {
+    left: 0px;
+    top: 353px;
   }
   .partnior-1 {
-    left: -7px;
-    top: 351px;
+    left: -5px;
+    top: 353px;
+    width: 310px;
+    height: 491px;
   }
   .partnior-1 img {
     left: -8px;
@@ -890,7 +889,7 @@
   }
   .ll {
     flex-direction: column;
-    top: 3995px;
+    top: 3911px;
     left: -19px;
   }
   .lki {
