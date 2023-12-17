@@ -74,7 +74,7 @@ button {
 
 .heroo img {
   position: relative;
-  width: 1440px;
+  width: 1190px;
   height: 700px;
   flex-shrink: 0;
 }
@@ -495,11 +495,11 @@ button {
   font-weight: 400;
 }
 .nn {
-  width: 1440px;
+  width: 1190px;
   height: 200px;
 }
 .yy {
-  width: 1440px;
+  width: 1190px;
   height: 200px;
 }
 .hiro-pp p span {
@@ -535,7 +535,7 @@ button {
 }
 
 .carta {
-  width: 1150px;
+  width: 150px;
   position: relative;
 }
 .carta-text {
@@ -556,7 +556,7 @@ button {
 }
 .luxx {
   position: relative;
-  width: 1240px;
+  width: 1190px;
   height: 500px;
 }
 .ll {
@@ -635,7 +635,7 @@ button {
   align-items: center;
   justify-content: space-between;
   background: #253659;
-  width: 1154px;
+  width: 1184px;
   height: 202px;
 }
 .footer-text svg {
@@ -700,7 +700,7 @@ button {
   stroke-width: 0.5px;
   stroke: #e9e3e3;
   background: #253659;
-  width: 1114px;
+  width: 1190px;
   height: 160px;
 }
 .footer-end {
