@@ -71,11 +71,11 @@
   }
   .hero-end h1 {
     position: absolute;
-    top: 1109px;
+    top: 1013px;
     left: 171px;
   }
   .hero-e {
-    top: 1150px;
+    top: 1056px;
     left: 173px;
   }
   .hero-chat {
@@ -203,7 +203,7 @@
     left: 810px;
     width: 84px;
     height: 54px;
-    top: 1134px;
+    top: 1043px;
     flex-shrink: 0;
   }
 }
@@ -263,7 +263,7 @@
     left: 24px;
   }
   .hero-e {
-    top: 1150px;
+    top: 1058px;
     left: 38px;
   }
   .footer-end {
@@ -302,17 +302,17 @@
   .hero-chat img {
     left: 472px;
     width: 64px;
-    top: 890px;
+    top: 798px;
     height: 57px;
     flex-shrink: 0;
   }
-  .hero-end h1 {
-    width: 301px;
-    font-size: 20px;
-  }
+
   .hero-e {
-    top: 891px;
+    top: 819px;
     left: 30px;
+  }
+  .hero-end h1 {
+    top: 786px;
   }
   .luxx {
     width: 556px;
@@ -324,9 +324,9 @@
     flex-shrink: 0;
   }
   .ll {
-    top: 1082px;
-    left: 55px;
-    gap: 90px;
+    top: 948px;
+    left: 23px;
+    gap: 41px;
   }
   .hero-img img {
     width: 571px;
@@ -356,9 +356,7 @@
     top: 259px;
     left: -66px;
   }
-  .hero-end h1 {
-    top: 869px;
-  }
+
   .header-imgt {
     bottom: 448px;
     right: 340px;
@@ -368,7 +366,7 @@
     left: 193px;
   }
 }
-@media (max-width: 451px) {
+@media (max-width: 450px) {
   .header-img2 {
     bottom: 328px;
     left: 67px;
@@ -382,13 +380,14 @@
     height: 603px;
   }
   .ll {
-    top: 1453px;
+    top: 982px;
     left: 22px;
     gap: 33px;
   }
   .footer-end {
+    flex-wrap: wrap;
     width: 435px;
-    height: 61px;
+    height: 85px;
   }
   .footer-r h3 {
     width: 146px;
@@ -420,7 +419,7 @@
     padding: 31px 0 0 0;
   }
   .hero-end h1 {
-    top: 819px;
+    top: 733px;
   }
   .hero-blu img {
     left: -330px;
@@ -433,13 +432,13 @@
     left: 362px;
     width: 40px;
     height: 40px;
-    top: 842px;
+    top: 762px;
   }
   .hero-e h2 {
     font-size: 29px;
   }
   .hero-e {
-    top: 844px;
+    top: 764px;
     left: 30px;
   }
   .luxx {
@@ -531,7 +530,7 @@
     padding: 13px 0 14px 0;
   }
   .ll {
-    top: 1427px;
+    top: 890px;
     left: 18px;
     gap: 33px;
   }
@@ -581,7 +580,7 @@
     height: 544px;
   }
   .ll {
-    top: 1314px;
+    top: 872px;
     left: 7px;
     gap: 33px;
   }
