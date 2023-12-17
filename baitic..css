@@ -19,7 +19,12 @@ button {
   cursor: pointer;
 }
 #header {
+  width: 100%;
   padding: 25px;
+  background: transparent;
+  position: fixed;
+  backdrop-filter: blur(10px);
+  z-index: 99;
 }
 .header {
   display: flex;

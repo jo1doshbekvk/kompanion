@@ -20,11 +20,11 @@ button {
 }
 
 #header {
-  padding: 20px;
-  fill: rgba(255, 255, 255, 0.3);
-  backdrop-filter: blur(99px);
+  width: 100%;
+  background: transparent;
+  position: fixed;
+  backdrop-filter: blur(10px);
   z-index: 99;
-  background-color: #abcbe1;
 }
 .header {
   display: flex;
