@@ -797,3 +797,27 @@ button {
   transform: skew(-10deg) translate(8px);
   box-shadow: 0 0 0 #654dff63;
 }
+.lo button {
+  cursor: pointer;
+  width: 122px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  font-size: -10.875em;
+  font-weight: 800;
+  letter-spacing: 0px;
+  color: #f2eeee;
+  background: #009ee3;
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 0 #009ee3;
+  transform: skew(-10deg);
+  transition: all 0.1s ease;
+  filter: drop-shadow(0 15px 20px #654dff);
+}
+.footera button:active {
+  letter-spacing: 0px;
+  transform: skew(-10deg) translate(8px);
+  box-shadow: 0 0 0 #654dff63;
+}

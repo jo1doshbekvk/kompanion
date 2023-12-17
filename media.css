@@ -791,7 +791,7 @@
 @media (max-width: 320px) {
   .jj {
     left: 232px;
-    bottom: 18px;
+    bottom: -7px;
     height: 40px;
     width: 77px;
   }
@@ -807,11 +807,11 @@
   }
   .hkk {
     left: 237px;
-    bottom: 23px;
+    bottom: -5px;
     height: 33px;
     width: 67px;
   }
-  .hero-nav img {
+  ч .hero-nav img {
     width: 106.63400000000001px;
     height: 139.564px;
   }
@@ -920,8 +920,8 @@
   }
   .footer {
     flex-wrap: wrap;
-    width: 301px;
-    height: 581px;
+    width: 426px;
+    height: 418px;
   }
   .partnior {
     width: 294px;

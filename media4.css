@@ -382,9 +382,9 @@
     height: 603px;
   }
   .ll {
-    top: 1054px;
-    left: 23px;
-    gap: 41px;
+    top: 1453px;
+    left: 22px;
+    gap: 33px;
   }
   .footer-end {
     width: 435px;
@@ -446,11 +446,7 @@
     width: 435px;
     height: 658px;
   }
-  .ll {
-    top: 1051px;
-    left: 36px;
-    gap: 90px;
-  }
+
   .lk {
     width: 228px;
     height: 58px;
@@ -511,7 +507,7 @@
     flex-shrink: 0;
   }
   .hero-e {
-    top: 799px;
+    top: 713px;
     left: 15px;
   }
   .hero-end h1 {
@@ -535,9 +531,9 @@
     padding: 13px 0 14px 0;
   }
   .ll {
-    top: 938px;
-    left: 30px;
-    gap: 75px;
+    top: 1427px;
+    left: 18px;
+    gap: 33px;
   }
   .luxx {
     width: 392px;
@@ -585,9 +581,9 @@
     height: 544px;
   }
   .ll {
-    top: 914px;
-    left: 19px;
-    gap: 55px;
+    top: 1314px;
+    left: 7px;
+    gap: 33px;
   }
   .footer {
     width: 364px;
@@ -614,6 +610,10 @@
     height: 40px;
     flex-shrink: 0;
   }
+  .hero-nav {
+    top: 70px;
+    left: 194px;
+  }
 }
 @media (max-width: 320px) {
   .hero-blu img {
@@ -627,12 +627,16 @@
     height: 458px;
   }
   .hero-chat img {
+    top: 713px;
     left: 243px;
     width: 40px;
     height: 40px;
     flex-shrink: 0;
   }
-
+  .hero-nav {
+    top: 78px;
+    left: 154px;
+  }
   .header-img2 {
     bottom: -16px;
     left: -63px;
@@ -682,6 +686,7 @@
     height: 616px;
   }
   .footer-end {
+    flex-wrap: wrap;
     width: 307px;
     height: 82px;
   }
@@ -703,7 +708,7 @@
     width: 64px;
   }
   .hero-end h1 {
-    top: 769px;
+    top: 698px;
     font-size: 16px;
     width: 277px;
   }
